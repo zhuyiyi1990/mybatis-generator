@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  * @author 朱一一
- * <a href="http://mybatis.org/generator">MyBatis Generator</a>
+ * <a href="http://mybatis.org/generator">MyBatis Generator 官方网站</a>
  */
 public class MybatisGenerator {
 
