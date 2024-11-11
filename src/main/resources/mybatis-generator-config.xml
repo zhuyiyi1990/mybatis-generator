@@ -7,8 +7,8 @@
 
         <jdbcConnection driverClass="com.mysql.cj.jdbc.Driver"
                         connectionURL="jdbc:mysql://10.44.1.65:3306/gdyf03_db"
-                        userId="oper_dc"
-                        password="operzADF2023guoda"/>
+                        userId="zhuyy"
+                        password="operzTYT2024qwer"/>
 
         <javaModelGenerator targetPackage="com.yonyou.dev.entity" targetProject="src/test/java"/>
 
